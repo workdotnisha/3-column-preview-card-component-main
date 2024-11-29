@@ -67,7 +67,7 @@ body{
     background-color: #003432;
 }
 .card1 button, .card2 button, .card3 button{
-    padding: 1.2rem 2rem;
+    padding: 1rem 2rem;
     border-radius: 5rem;
     border: none;
     margin: 1rem 0;
